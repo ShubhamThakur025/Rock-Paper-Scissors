@@ -29,7 +29,8 @@ h1{
     color: white;
     display: flex;
     align-items: center;
-    margin-left: 10vw
+    margin-left: 10vw;
+    cursor: pointer;
 }
 .play-game-button img{
     width: 3vw;
